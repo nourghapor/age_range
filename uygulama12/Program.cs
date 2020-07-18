@@ -23,6 +23,7 @@ namespace uygulama12
             if (yas < 18)
             Console.Write("18 yaşları ve altı girmiyor");
             Console.WriteLine("kapanıyor");
+            Console.ReadKey();
             Environment.Exit(0);
 
          
