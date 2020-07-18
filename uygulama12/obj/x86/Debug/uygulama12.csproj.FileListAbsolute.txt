@@ -1,0 +1,9 @@
+D:\15 mhd nureetin ghabbour(10BA)\PROGRAMLAMA TEMELLERİ\uygulama12\uygulama12\bin\Debug\uygulama12.exe
+D:\15 mhd nureetin ghabbour(10BA)\PROGRAMLAMA TEMELLERİ\uygulama12\uygulama12\bin\Debug\uygulama12.pdb
+D:\15 mhd nureetin ghabbour(10BA)\PROGRAMLAMA TEMELLERİ\uygulama12\uygulama12\obj\x86\Debug\uygulama12.exe
+D:\15 mhd nureetin ghabbour(10BA)\PROGRAMLAMA TEMELLERİ\uygulama12\uygulama12\obj\x86\Debug\uygulama12.pdb
+D:\PROGRAMLAMA TEMELLERİ\PROGRAMLAMA TEMELLERİ\uygulama12\uygulama12\obj\x86\Debug\uygulama12.exe
+D:\PROGRAMLAMA TEMELLERİ\PROGRAMLAMA TEMELLERİ\uygulama12\uygulama12\bin\Debug\uygulama12.exe
+D:\PROGRAMLAMA TEMELLERİ\PROGRAMLAMA TEMELLERİ\uygulama12\uygulama12\bin\Debug\uygulama12.pdb
+D:\PROGRAMLAMA TEMELLERİ\PROGRAMLAMA TEMELLERİ\uygulama12\uygulama12\obj\x86\Debug\uygulama12.csprojResolveAssemblyReference.cache
+D:\PROGRAMLAMA TEMELLERİ\PROGRAMLAMA TEMELLERİ\uygulama12\uygulama12\obj\x86\Debug\uygulama12.pdb
